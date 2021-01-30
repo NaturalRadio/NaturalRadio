@@ -2,8 +2,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaturalRadio&theme=onedark)](https://github.com/NaturalRadio/github-profile-trophy)
 <!--
 **NaturalRadio/NaturalRadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaturalRadio&theme=onedark)](https://github.com/NaturalRadio/github-profile-trophy)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaturalRadio&theme=onedark)](https://github.com/NaturalRadio/github-profile-trophy)
