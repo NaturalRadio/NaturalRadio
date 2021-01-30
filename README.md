@@ -2,10 +2,8 @@
 
 <!--
 **NaturalRadio/NaturalRadio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github-profile-trophy.vercel.app/NaturalRadio=darkhub
 Here are some ideas to get you started:
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
